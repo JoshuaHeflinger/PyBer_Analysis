@@ -1,1 +1,7 @@
 # PyBer_Analysis
+## Overview
+  This challenge was meant to analyze a rideshare app and show the differneces the average fare between rides and the average fare between drivers. 
+  ## Results
+   When checking the line chart the key thing that you'll notice is that urban areas make are more expensive every week than both rural and suburban areas area combined. Another thing that you'll notice when checking the data is that drivers average fare in the urban areas are significantly less then that of the rural and suburban areas are. The average fare per ride in rural areas is $34.62 and the average fare per driver is $55.49. The average fare per ride in suburban areas is $30.97 and the average fare per driver is $39.50. Urban areas is the only area where the average fare per driver is less then the average fare per ride with the average fare per ride being $24.53 and the average fare per ride only being $16.57. Now this could be because there are significantly more drivers in urban areas then there are in both rural and suburban. 
+   ## Summary
+   I think there are couple things that I would recommend to change. One of those things would be to have higher wages in areas that are busier and more densely populated like urban areas are. Another recommendation would be to have more drivers in rural and suburban areas. Those areas had more rides than they had drivers. My last recommendation would be to have the drivers go to multiple areas instead of just being in a single city type. 
